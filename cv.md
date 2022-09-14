@@ -29,7 +29,8 @@ The returned format must be correct in order to complete this challenge.
 Don't forget the space after the closing parentheses!
 
 **Solution:**
-```function createPhoneNumber(numbers){
+```javascript
+function createPhoneNumber(numbers){
   if(!numbers) {
     return;
   }
