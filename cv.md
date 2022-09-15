@@ -46,7 +46,7 @@ function createPhoneNumber(numbers){
 ## Experience
 - 7 years of coding in PHP  
 - Backend and a bit of a Frontend development of an online store  
-- 1C and delivery compamies integration, etc.
+- 1C and delivery companies integration, etc.
 
 ## Education
 - St. Petersburg Industrial and Economic College - Web programmer
